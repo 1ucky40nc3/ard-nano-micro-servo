@@ -4,7 +4,7 @@
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-nano", "id": "nano", "top": -4.8, "left": -10.1, "attrs": {} },
-    { "type": "wokwi-servo", "id": "servo1", "top": 132.4, "left": 163.2, "attrs": {} }
+    { "type": "wokwi-servo", "id": "servo1", "top": 132.4, "left": 163.2, "attrs": { "horn": "double" } }
   ],
   "connections": [
     [ "nano:GND.1", "servo1:GND", "brown", [ "v0" ] ],
