@@ -9,7 +9,7 @@ const int minAngle = 0;    // Minimum angle of servo rotation (in degrees)
 const int maxAngle = 180;  // Maximum angle of servo rotation (in degrees)
 
 // Set the desired angular velocity (in degrees per second)
-const float angularVelocity = 90.0;  // Adjust this value to change rotation speed
+const float angularVelocity = 30.0;  // Adjust this value to change rotation speed
 
 /**
  * Calculates the wait time between angle increments based on the desired angular velocity.
