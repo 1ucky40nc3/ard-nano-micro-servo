@@ -28,7 +28,7 @@ Table 1: [SG90 9 g Micro Servo] to the [Arduino Nano] pin layout
 | D9 | SIG(yellow/orange) |
 | GND | GND(Black/Brown) |
 
-You can also check the Wokwi [diagram](diagram.json).
+You can also check the Wokwi [diagram](diagram.json) - or inspect the [project on wokwi.com](https://wokwi.com/projects/410565261315749889).
 
 ### Upload the Software
 
